@@ -9,4 +9,6 @@ python -m pip install PyGithub
 ```
 
 # Usage
+```batch
 To run the script write .auto_create.cmd <Name of repository> <Username (on github)> <Password (on github)>
+```
