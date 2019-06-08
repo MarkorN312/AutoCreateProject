@@ -7,7 +7,7 @@ password = sys.argv[3]
 
 def create():
     folderName = str(sys.argv[1])
-    os.makedirs('C:/Users/Uzivatel/Desktop/AutoCreateProject/Projects/' + folderName)
+    os.makedirs(insert_path' + folderName)
     Github(username, password).get_user().create_repo(folderName)
     print('Succesfully created repository',folderName)
 
