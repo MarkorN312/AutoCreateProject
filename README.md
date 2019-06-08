@@ -12,6 +12,7 @@ python -m pip install PyGithub
 ```bash
 To run the script write doskey acp="path to the file"
 Than type acp
+Don't forget to change path in setup.py and .auto
 ```
 
 # Requirements
