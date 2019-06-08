@@ -9,7 +9,7 @@ python -m pip install PyGithub
 ```
 
 # Usage
-```batch
+```bash
 To run the script write doskey acp="path to the file"
 Than type acp
 ```
