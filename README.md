@@ -1,6 +1,3 @@
-# AutoCreateProject
-Based on work: https://github.com/KalleHallden/ProjectInitializationAutomation, but for windows.
-
 # Installation
 ```batch
 git clone https://github.com/MarkorN312/AutoCreateProject.git
